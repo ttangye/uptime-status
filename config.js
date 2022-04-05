@@ -24,8 +24,8 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '博客',
-      url: 'https://18sui.net'
+      text: 'TG群',
+      url: 'https://t.me/jucili_com'
     }
   ]
 };
