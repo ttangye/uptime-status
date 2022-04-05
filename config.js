@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '站点状态监控---极客青年',
+  SiteName: '站点状态监控---聚磁力',
 
   // 站点链接
   SiteUrl: '/',
@@ -24,16 +24,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '项目主页',
-      url: 'https://github.com/geekyouth/uptime-status'
+      text: '聚磁力',
+      url: 'https://jucili.com'
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/geekyouth/'
+      text: '搜索',
+      url: 'https://demo.jucili.com'
     },
     {
       text: '博客',
-      url: 'https://java666.cn'
+      url: 'https://18sui.net'
     }
   ]
 };
