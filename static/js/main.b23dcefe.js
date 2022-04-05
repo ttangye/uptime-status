@@ -7231,13 +7231,13 @@
         s = function () {
             return o.a.createElement("div", {id: "footer"}
                 , o.a.createElement("div", {className: "container"}
-                    , o.a.createElement("p", null, "基于 "
+                    , o.a.createElement("p", null, " "
                         , o.a.createElement(l, {
-                            to: "https://uptimerobot.com/",
-                            text: "UptimeRobot"
+                            to: "https://jucili.com/",
+                            text: "JUCILI.COM"
                         })
-                        , " 接口制作，检测频率 5 分钟")
-                    , o.a.createElement("p", null, "本站构建于 2020-04-08"
+                        , " 检测频率 5 分钟")
+                    , o.a.createElement("p", null, "本站构建于 2022-04-05"
                         //     , o.a.createElement(l, {
                         //     to: "https://status.org.cn/",
                         //     text: "STATUS.ORG.CN"
