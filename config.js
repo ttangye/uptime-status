@@ -24,14 +24,6 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '聚磁力',
-      url: 'https://jucili.com'
-    },
-    {
-      text: '搜索',
-      url: 'https://demo.jucili.com'
-    },
-    {
       text: '博客',
       url: 'https://18sui.net'
     }
